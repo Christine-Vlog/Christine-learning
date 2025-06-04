@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Python 学习日志 Day 1"
+title: "Python learning Vlog Day 1"
 ---
 
-今天学习了 Python 的基础功能
+Setting up my first Website in my life!
 
-明天计划学习表单测试。
+Tomorrow I will start to log my Python learning process.
